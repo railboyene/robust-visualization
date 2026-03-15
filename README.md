@@ -1,7 +1,5 @@
 # robust-visualization
 
-Tutorial and examples for robust visualization techniques.
-
 ## Overview
 This repository contains tutorials for creating robust visualizations in various contexts.
 
